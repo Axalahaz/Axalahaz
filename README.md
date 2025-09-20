@@ -25,14 +25,13 @@ Mis primeros pasos en programación surgieron al buscar una solución a un probl
   <img src="img/java_original_wordmark_logo_icon_146459.png" alt="java" width="50" height="50"/> 
   <img src="img/spring.png" alt="spring" width="50" height="50"/> 
   <img src="img/python_vertical_logo_icon_168039.png" alt="python" width="50" height="50"/>
-  <img src="img/free-rest-api-blue-logo-icon-22098-thumb" alt="" width="50" height="50"/>
-  <img src="img/icon-soap" alt="" width="50" height="50"/>
-  <img src="img/mysql_original_wordmark_logo_icon_146417" alt="" width="50" height="50"/>
-  <img src="img/heidisql-computer-icons" alt="" width="50" height="50"/>
-  <img src="img/eclipse_94656" alt="" width="50" height="50"/>
-  <img src="img/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954" alt="" width="50" height="50"/>
-  <img src="img/tomcat_original_wordmark_logo_icon_146324" alt="" width="50" height="50"/>
-  <img src="img/" alt="" width="50" height="50"/>
+  <img src="img/free-rest-api-blue-logo-icon-22098-thumb.png" alt="" width="50" height="50"/>
+  <img src="img/icon-soap.png" alt="" width="50" height="50"/>
+  <img src="img/mysql_original_wordmark_logo_icon_146417.png" alt="" width="50" height="50"/>
+  <img src="img/heidisql-computer-icons.png" alt="" width="50" height="50"/>
+  <img src="img/eclipse_94656.png" alt="" width="50" height="50"/>
+  <img src="img/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png" alt="" width="50" height="50"/>
+  <img src="img/tomcat_original_wordmark_logo_icon_146324.png" alt="" width="50" height="50"/>
 </p>
 
 
