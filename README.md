@@ -1,38 +1,24 @@
 # Hola! 👋 Les cuento mi historia: 
 
-<!--
-**Axalahaz/Axalahaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Mis primeros pasos en programación surgieron al buscar una solución a un problema propio!! Necesitaba un sistema de gestión que se ajustara a mis necesidades. Ese interés me llevó a estudiar y formarme en desarrollo de software, y hoy soy una desarrolladora en constante crecimiento profesional.
 
-<h1> Tecnologías </h1>
-<p align="left">
-  <img src="img/javascript_original_logo_icon_146455.png" alt="javascript" width="50" height="50"/> 
-  <img src="img/html_original_wordmark_logo_icon_146478.png" alt="html" width="50" height="50"/>
-  <img src="img/css_original_wordmark_logo_icon_146576.png" alt="css" width="50" height="50"/>
-  <img src="img/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="50" height="50"/>
-  <img src="img/java_original_wordmark_logo_icon_146459.png" alt="java" width="50" height="50"/> 
-  <img src="img/spring.png" alt="spring" width="50" height="50"/> 
-  <img src="img/python_vertical_logo_icon_168039.png" alt="python" width="50" height="50"/>
-  <img src="img/free-rest-api-blue-logo-icon-22098-thumb.png" alt="" width="50" height="50"/>
-  <img src="img/icon-soap.png" alt="" width="50" height="50"/>
-  <img src="img/mysql_original_wordmark_logo_icon_146417.png" alt="" width="50" height="50"/>
-  <img src="img/heidisql-computer-icons.png" alt="" width="50" height="50"/>
-  <img src="img/eclipse_94656.png" alt="" width="50" height="50"/>
-  <img src="img/microsoft_visual_studio_code_alt_macos_bigsur_icon_189954.png" alt="" width="50" height="50"/>
-  <img src="img/tomcat_original_wordmark_logo_icon_146324.png" alt="" width="50" height="50"/>
-</p>
+# 🚀 Tecnologías
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Web_Service_(Soap/Rest)](https://img.shields.io/badge/Web%20Service%20(Soap/Rest)-005571?style=for-the-badge&logo=api&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logoColor=white)
 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ProjectLibre](https://img.shields.io/badge/ProjectLibre-B92B27?style=for-the-badge&logoColor=white)
