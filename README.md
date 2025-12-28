@@ -10,14 +10,12 @@ Mis primeros pasos en programación surgieron al buscar una solución a un probl
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Web_Service_(Soap/Rest)](https://img.shields.io/badge/Web%20Service%20(Soap/Rest)-005571?style=for-the-badge&logo=api&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=api&logoColor=white)
 
-![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-003B57?style=for-the-badge&logoColor=white)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
