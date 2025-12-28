@@ -27,4 +27,4 @@ Mis primeros pasos en programación surgieron al buscar una solución a un probl
 
 [![GameOver](https://img.shields.io/badge/Game%20Over-Ver%20Demo-blue)](https://axalahaz.github.io/GameOver/)
 
-[![TiendaVirtual](https://img.shields.io/badge/Tienda%20Virtual-Ver%20Demo-blue)](https://axalahaz.github.io/home)
+[![TiendaFalsa](https://img.shields.io/badge/Tienda%20Falsa-Ver%20Demo-blue)](https://axalahaz.github.io/TiendaFalsa/)
